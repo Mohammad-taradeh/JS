@@ -1,0 +1,17 @@
+.container {
+    width: 500px;
+    margin: 0 auto;
+  }
+  
+  input {
+    width: 200px;
+  }
+  
+  ul {
+    list-style-type: none;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
